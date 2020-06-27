@@ -16,7 +16,7 @@ Below all links to Image, video, extenstions and software used during the worksh
 
 3. Jeffrey's Image Metadata Viewer: http://exif.regex.info/exif.cgi
 
-4. Seacrh engines used: https://www.google.com/images https://www.bing.com/images https://yandex.com/images 
+4. Search engines used: https://www.google.com/images https://www.bing.com/images https://yandex.com/images 
 
 5. Search by image Browser Extension: https://github.com/dessant/search-by-image
 
