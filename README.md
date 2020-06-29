@@ -24,3 +24,12 @@ Below all links to Image, video, extenstions and software used during the worksh
 
 7. AutoStitch: http://matthewalunbrown.com/autostitch/autostitch.html
 
+
+Complimentary video tutorials for later reference on the SANS Blue Team YOUTUBE CHANNEL:
+
+A) Why Video and Image Verification matters for OSINT - https://www.youtube.com/watch?v=qaGFkxr7TlU
+
+B) OSINT Reverse Image Searching with Search-By-Image - https://www.youtube.com/watch?v=0uoJKlyGpbo
+
+C) OSINT Video Verification with InVid, Google Maps & Street View - https://www.youtube.com/watch?v=UTyaEjVHL-w
+
