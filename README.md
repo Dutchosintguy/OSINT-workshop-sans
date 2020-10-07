@@ -12,7 +12,7 @@ Below all links to Image, video, extenstions and software used during the worksh
 
 2. Photo from Flickr for Exif information viewing: https://www.flickr.com/photos/147564413@N04/50041509442/in/pool-iphonephotography/
 
-3. Video used for location verification: https://twitter.com/DavidVidecette/status/1137783163206475777
+3. Video used for location verification: https://twitter.com/DavidVidecette/status/1137783120793624581
 
 3. Jeffrey's Image Metadata Viewer: http://exif.regex.info/exif.cgi
 
